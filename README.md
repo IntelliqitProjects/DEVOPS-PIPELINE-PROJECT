@@ -1,10 +1,10 @@
 # DEVOPS-PIPELINE-PROJECT
 THE ULTIMATE CICD
-BoardgameListingWebApp
+BoardgameListingWebApp:
 Description
 Board Game Database Full-Stack Web Application. This web application displays lists of board games and their reviews. While anyone can view the board game lists and reviews, they are required to log in to add/ edit the board games and their reviews. The 'users' have the authority to add board games to the list and add reviews, and the 'managers' have the authority to edit/ delete the reviews on top of the authorities of users.
 
-Technologies
+Technologies:
 Java
 Spring Boot
 Amazon Web Services(AWS) EC2
@@ -21,7 +21,7 @@ Spring Security
 Twitter Bootstrap
 Maven
 
-Features
+Features:
 Full-Stack Application
 UI components created with Thymeleaf and styled with Twitter Bootstrap
 Authentication and authorization using Spring Security
@@ -40,7 +40,7 @@ Schema.sql file to customize the schema and input initial data
 Thymeleaf Fragments to reduce redundancy of repeating HTML elements (head, footer, navigation)
 
 
-How to Run
+How to Run:
 Clone the repository
 Open the project in your IDE of choice
 Run the application
