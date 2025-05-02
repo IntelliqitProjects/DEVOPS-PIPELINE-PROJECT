@@ -9,21 +9,21 @@ Board Game Database Full-Stack Web Application. This web application displays li
 
 Technologies:
 
-Java
-Spring Boot
-Amazon Web Services(AWS) EC2
-Thymeleaf
-Thymeleaf Fragments
-HTML5
-CSS
-JavaScript
-Spring MVC
-JDBC
-H2 Database Engine (In-memory)
-JUnit test framework
-Spring Security
-Twitter Bootstrap
-Maven
+Java,
+Spring Boot,
+Amazon Web Services(AWS) EC2,
+Thymeleaf,
+Thymeleaf Fragments,
+HTML5,
+CSS,
+JavaScript,
+Spring MVC,
+JDBC,
+H2 Database Engine (In-memory),
+JUnit test framework,
+Spring Security,
+Twitter Bootstrap,
+Maven,
 
 Features:
 
